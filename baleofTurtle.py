@@ -1,0 +1,36 @@
+import turtle
+
+kvothe = turtle.Turtle()
+scn = turtle.Screen()
+illian = turtle.Turtle()
+scn = turtle.Screen()
+kelsier = turtle.Turtle()
+kvothe.shape("turtle")
+kvothe.color("goldenrod")
+kvothe.penup()
+kvothe.goto(0, 50)
+kvothe.pendown()
+kvothe.begin_fill()
+kvothe.circle(100)
+kvothe.end_fill()
+
+illian.color("black")
+illian.penup()
+illian.goto(-45, 150)
+illian.pendown()
+illian.begin_fill()
+illian.circle(25)
+illian.end_fill()
+illian.left(90)
+illian.forward(25)
+
+
+kelsier.color("black")
+kelsier.penup()
+kelsier.goto(45, 150)
+kelsier.pendown()
+kelsier.begin_fill()
+kelsier.circle(25)
+kelsier.end_fill()
+
+turtle.exitonclick()
