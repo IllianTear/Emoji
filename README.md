@@ -1,2 +1,2 @@
 # Emoji
-![Emoji](/Emoji.png)
+![Emoji](Emoji.png)
