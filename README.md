@@ -1,2 +1,2 @@
 # Emoji
-![Emoji](/Pictures/Emoji.PNG)
+![GitHub](/Pictures/Emoji.PNG)
