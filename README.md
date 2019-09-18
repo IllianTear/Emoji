@@ -1,2 +1,2 @@
 # Emoji
-![Emoji](/This PC/Pictures/Emoji.png)
+![Emoji](/Emoji.png)
